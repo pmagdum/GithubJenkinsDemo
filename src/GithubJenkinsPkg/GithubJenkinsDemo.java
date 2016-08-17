@@ -14,7 +14,7 @@ public class GithubJenkinsDemo
 		driver.get("https://www.gmail.com");
 		Reporter.log("Opening gmail....",true);
 		Reporter.log("From github to eclips..",true);
-		driver.close();
+	
 	}
 
 }
